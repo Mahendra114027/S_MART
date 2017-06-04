@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/praveen/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/praveen/AndroidStudioProjects/S_MART/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_b52650b0f2ec8a0c64d14f12529ebf306ff0ff6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/praveen/AndroidStudioProjects/S_MART/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/praveen/AndroidStudioProjects/S_MART/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4546e0d4ca7ad801dbb6326a372bff72612fe2dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/praveen/AndroidStudioProjects/S_MART/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1dcfd98ee23a76be1cf12ce5153cfcaa661de4f">
+        <dex dex="/home/praveen/AndroidStudioProjects/S_MART/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08d836aa0666f34f4a295031377c0d02c87c7791/classes.dex" />
+    </item>
+
+</items>
