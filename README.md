@@ -17,3 +17,16 @@ Product 13
 
 Product 14
 ![alt text](https://github.com/pramayn99/S_MART/blob/master/R%20scripts/plots/Product%2014.png)
+
+
+
+#Screenshots
+
+
+![alt text](https://github.com/pramayn99/S_MART/blob/master/Screenshots/Screenshot_20170604-125832.png)
+
+
+![alt text](https://github.com/pramayn99/S_MART/blob/master/Screenshots/Screenshot_20170604-125851.png)
+
+![alt text](https://github.com/pramayn99/S_MART/blob/master/Screenshots/Screenshot_20170604-125902.png)
+
